@@ -1,4 +1,11 @@
 # Appunti
-Appunti 4EIT-4EAR maxPlanck
+Appunti 4EIT-4EAR MaxPlanck
 
-Footer © 2026 GitHub, Inc.
+> [!WARNING]
+> Gli appunti sono divisi per categoria
+
+---
+
+## 4EIT
+### TPSIT
+[]()
