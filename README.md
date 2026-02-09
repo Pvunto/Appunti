@@ -1,7 +1,7 @@
 # Appunti
 Appunti 4EIT-4EAR MaxPlanck
 
-> [!WARNING]
+> [!NOTE]
 > Gli appunti sono divisi per categoria
 
 ---
