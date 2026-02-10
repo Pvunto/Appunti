@@ -7,10 +7,15 @@ Struttura LIFO (Last In, First Out)
     L’ultimo elemento inserito è il primo ad essere rimosso
 
 Operazioni principali:
+
 `push()` → inserisce un elemento
+
 `pop()` → rimuove l’ultimo elemento
+
 `top()` / `peek()` → legge l’elemento in cima
+
 Esempio: stack delle chiamate di funzione
+
 
 ### Queue (Coda)
 Struttura FIFO (First In, First Out)
@@ -24,3 +29,4 @@ Operazioni principali:
 `front()` → primo elemento
 
 Esempio: coda dei processi pronti
+
