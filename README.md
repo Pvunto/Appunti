@@ -11,4 +11,4 @@ Appunti 4EIT-4EAR MaxPlanck
 - [2.6 Cenni Agli Attuatori](TPSIT/2.6CenniAgliAttuatori.md)
 
 ## Sistemi e Reti
-- 
+- [Domande per Verifica OS e Concorrenza](SER/DomandeperVerificaOSeConcorrenza.md)
