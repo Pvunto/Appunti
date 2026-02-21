@@ -12,3 +12,6 @@ Appunti 4EIT-4EAR MaxPlanck
 
 ## Sistemi e Reti
 - [Domande per Verifica OS e Concorrenza](SER/DomandeperVerificaOSeConcorrenza.md)
+
+## Storia
+- [La crescita demografica e i cambiamenti del Settecento](La-crescita-demografica-e-i-cambiamenti-del-Settecento.md)
